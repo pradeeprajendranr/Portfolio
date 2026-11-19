@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Pradeep Kumar R
 
-\<h1 align="center">Hi 👋, I'm Pradeep Kumar R\</h1>
+<h1 align="center">Hi 👋, I'm Pradeep Kumar R</h1>
 
-\<h3 align="center">
-🚀 B.Tech Information Technology Student | Aspiring Data Engineer | Software Developer
-\</h3>
+<h3 align="center">
+🚀 B.Tech IT Student | Aspiring Data Engineer | Software Developer
+</h3>
 
-\<p align="center">
-\<img src="[https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+Developer+%E2%98%95;Aspiring+Data+Engineer;Data+Science+%26+Machine+Learning+Enthusiast;Problem+Solver+%F0%9F%A7%A9;Building+Projects+and+Learning+Every+Day+%F0%9F%9A%80](https://readme-typing-svg.herokuapp.com?font=Poppins\&size=24\&duration=3500\&pause=1000\&color=00C2FF\&center=true\&vCenter=true\&width=800\&lines=Welcome+to+my+GitHub!;Java+Developer+%E2%98%95;Aspiring+Data+Engineer;Data+Science+%26+Machine+Learning+Enthusiast;Problem+Solver+%F0%9F%A7%A9;Building+Projects+and+Learning+Every+Day+%F0%9F%9A%80)"/>
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java+Developer+%E2%98%95;Aspiring+Data+Engineer;Data+Science+Enthusiast;Problem+Solver+%F0%9F%A7%A9;Always+Learning+and+Building+%F0%9F%9A%80"/>
+</p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 ```yaml
 Name: Pradeep Kumar R
@@ -47,7 +46,7 @@ Mindset:
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
 - 🧩 Solving Data Structures & Algorithms problems
 - ☕ Strengthening Java and Object-Oriented Programming
@@ -59,16 +58,17 @@ Mindset:
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
 - 💻 Data Science Intern at Quantagon AI
-- 🚀 Completed internship experiences involving technology and software development
-- 🧠 Participated in hackathons and collaborative problem-solving events
-- 🛠️ Worked on projects involving data analytics, machine learning and software development
+- 🚀 Completed two internship experiences
+- 🧠 Participated in three hackathons
+- 🛠️ Gained practical experience in data handling and software development
+- 🤝 Interested in teamwork and collaborative problem-solving
 
 ---
 
-# 🧠 My Mindset
+## 🧠 My Mindset
 
 > "Consistency is the key to turning ideas into reality."
 
@@ -78,44 +78,39 @@ Mindset:
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-\<p align="center">
-
-\<img src="[https://skillicons.dev/icons?i=java,python,mysql,postgres,git,github,docker,linux,vscode,html,css,js,react,spring](https://skillicons.dev/icons?i=java,python,mysql,postgres,git,github,docker,linux,vscode,html,css,js,react,spring)"/>
-
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,git,github,docker,linux,vscode,html,css,js,react,spring"/>
+</p>
 
 ### 📚 Technologies I'm Exploring
 
-\<p align="center">
-
-\<img src="[https://skillicons.dev/icons?i=sklearn,kafka,redis,mongodb,fastapi,azure,figma](https://skillicons.dev/icons?i=sklearn,kafka,redis,mongodb,fastapi,azure,figma)"/>
-
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,redis,mongodb,fastapi,azure,figma"/>
+</p>
 
 ---
 
-# 📊 Areas of Interest
+## 📊 Areas of Interest
 
-\<p align="center">
-
-🔹 Data Engineering
-🔹 Data Science & Machine Learning
-🔹 Data Analytics & Visualization
-🔹 Backend Development
-🔹 Artificial Intelligence
-🔹 Software Engineering
-
-\</p>
+<p align="center">
+  🔹 Data Engineering &nbsp; • &nbsp;
+  🔹 Data Science &nbsp; • &nbsp;
+  🔹 Machine Learning
+  <br/>
+  🔹 Data Analytics &nbsp; • &nbsp;
+  🔹 Backend Development &nbsp; • &nbsp;
+  🔹 Artificial Intelligence
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 AI-EVE — AI Evidence Verification Engine
 
-An AI-powered engine designed to verify software development work using evidence from development platforms and generate explainable contribution insights.
+An AI-powered software work verification and developer analytics engine designed to analyze development activities, verify task-completion claims using evidence and generate explainable contribution insights.
 
 **Technologies:** Python, AI/ML, GitHub APIs, Data Analytics
 
@@ -139,52 +134,55 @@ A data engineering project focused on collecting, processing and analyzing IPL d
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-\<p align="center">
-
-\<img src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165"/>
-
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165"/>
-
-\</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pradeeprajendranr&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeeprajendranr&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-\<p align="center">
-
-\<img src="[https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)"/>
-
-\</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pradeeprajendranr&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect With Me
 
-\<p align="center">
+<p align="center">
+  <a href="https://github.com/pradeeprajendranr">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pradeeprajendranr/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pradeeprajendran008@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+</p>
 
-\<a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)">
-\<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" height="40"/>
-\</a>
-
-\<a href="YOUR_LINKEDIN_URL">
-\<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" height="40"/>
-\</a>
-
-\<a href="mailto\:YOUR_EMAIL">
-\<img src="[https://skillicons.dev/icons?i=gmail](https://skillicons.dev/icons?i=gmail)" height="40"/>
-\</a>
-
-\</p>
+<p align="center">
+  <a href="https://github.com/pradeeprajendranr">
+    Visit My GitHub Profile
+  </a>
+  &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/pradeeprajendranr/">
+    Connect on LinkedIn
+  </a>
+</p>
 
 ---
 
-\<p align="center"> \<img src="[https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=Profile%20Views\&color=0e75b6\&style=flat)" alt="Profile views"/> \</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pradeeprajendranr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-\<h3 align="center">
-
+<h3 align="center">
 🚀 "Learn. Build. Break. Fix. Repeat."
-
-\</h3>
+</h3>
